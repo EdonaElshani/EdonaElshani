@@ -8,7 +8,7 @@ I am passionate about building responsive, user-friendly applications using the 
 My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQuery, and .NET.
 
 
-<strong>Languages:</strong> JavaScript, C#, HTML, CSS, Bootstrap
+<strong>Languages:</strong> JavaScript, C#, HTML, CSS
 <div style="display:flex;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
@@ -21,13 +21,14 @@ My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> 
   </a>
   <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
+
   </div>
 
-<strong> Frameworks/Libraries:</strong> React.js, React Native, jQuery, .NET Core
+<strong> Frameworks/Libraries:</strong> React.js, React Native, jQuery, .NET Core, Bootstrap, Tailwind CSS
 <div style="display:flex;">
   <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> 
+      <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
   </a>
   </div>
 
