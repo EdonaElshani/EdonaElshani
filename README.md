@@ -8,6 +8,14 @@ Languages: JavaScript, C#, HTML, CSS
 Frameworks/Libraries: React.js, React Native, jQuery
 Tools/Platforms: .NET, Git, Visual Studio, VS Code, Postman
 Databases: SQL, MongoDB
+
+Contact Me
+Feel free to reach out to me via email or social media:
+
+Email: edonaelshani31@gmail.com
+LinkedIn: www.linkedin.com/in/edonaelshani
+
+Thank you for visiting my Github profile!
 <!--
 **EdonaElshani/EdonaElshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
