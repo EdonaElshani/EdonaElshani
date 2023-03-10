@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Edona Elshani!
+I am a Fullstack Developer with 1 year of experience. I am passionate about building responsive, user-friendly applications using the latest web technologies. My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQuery, and .NET.
+
+Skills
+Languages: JavaScript, C#, HTML, CSS
+Frameworks/Libraries: React.js, React Native, jQuery
+Tools/Platforms: .NET, Git, Visual Studio, VS Code, Postman
+Databases: SQL, MongoDB
 <!--
 **EdonaElshani/EdonaElshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
