@@ -58,9 +58,12 @@ My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQu
   <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> 
   </a>
-  
   </div>
-  
+  </br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdonaElshani&show_icons=true&locale=en&layout=compact"/>
+</p>
+</br>
+
 #### Contact Me 
 Feel free to reach out to me via email or social media:
 
