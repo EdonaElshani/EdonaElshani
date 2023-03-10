@@ -33,6 +33,8 @@ My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQu
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" style="max-width: 100%;"> </a>
       <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
   </a>
+    <a href="#" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40" style="max-width: 100%;"> </a>
+  </a>
   </div>
 
 <strong>Tools/Platforms</strong>: Git, Visual Studio, VS Code, Postman
