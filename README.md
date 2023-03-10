@@ -62,8 +62,7 @@ My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQu
   </br>
 <div style="display:flex;">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EdonaElshani&show_icons=true&locale=en&layout=compact"/></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com?username=EdonaElshani" alt="GitHub Streak" /></p>
-
+<p><img src="https://streak-stats.demolab.com/?user=EdonaElshani" alt="GitHub Streak" /></p>
 </div>
 </br>
 <strong>Contact Me </strong>
