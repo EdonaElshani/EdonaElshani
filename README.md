@@ -60,8 +60,10 @@ My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQu
   </a>
   </div>
   </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdonaElshani&show_icons=true&locale=en&layout=compact"/>
-</p>
+  <div style="display:flex;">
+<p  width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdonaElshani&show_icons=true&locale=en&layout=compact"/></p>
+<p width="50%"><img src="https://github-readme-stats.vercel.app/api?username=EdonaElshani&show_icons=true&layout=compact"/></p>
+</div>
 </br>
 
 #### Contact Me 
