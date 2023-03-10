@@ -60,12 +60,12 @@ My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQu
   </a>
   </div>
   </br>
-  <div style="display:flex;">
+<div style="display:flex;">
 <p  width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdonaElshani&show_icons=true&locale=en&layout=compact"/></p>
 <p width="50%"><img src="https://github-readme-stats.vercel.app/api?username=EdonaElshani&show_icons=true&layout=compact"/></p>
+<a href="https://github.com/EdonaElshani/EdonaElshani"><img alt="Streak Stats" src="https://camo.githubusercontent.com/14b034fad3922423b7a1d2c403d8c629ddbe2f3c9ae980992c038a14b50410aa/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d6974756c33373337267468656d653d68696768636f6e7472617374" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=EdonaElshani&amp;layout=compact" style="max-width: 100%;"></a>
 </div>
 </br>
-
 #### Contact Me 
 Feel free to reach out to me via email or social media:
 
