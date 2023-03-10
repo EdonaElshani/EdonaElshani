@@ -8,18 +8,17 @@ I am passionate about building responsive, user-friendly applications using the 
 My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQuery, and .NET.
 
 
-<strong>Languages:</strong> JavaScript, C#, HTML, CSS
+<strong>Languages:</strong> JavaScript, Typescript, C#, HTML, CSS
 <div style="display:flex;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
-
-<a href="https://www.w3.org/html/" rel="nofollow"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
-  </a>
-  
   <a href="https://www.typescriptlang.org/" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> 
   </a>
+<a href="https://www.w3.org/html/" rel="nofollow"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
+  </a>
+
   <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 
   </div>
