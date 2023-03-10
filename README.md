@@ -16,7 +16,7 @@ My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQu
 <a href="https://www.w3.org/html/" rel="nofollow"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
   </a>
-[  
+  
   <a href="https://www.typescriptlang.org/" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> 
   </a>
