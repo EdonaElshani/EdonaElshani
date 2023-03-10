@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Edona Elshani!
-I am a Fullstack Developer with 1 year of experience. I am passionate about building responsive, user-friendly applications using the latest web technologies. My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQuery, and .NET.
+I am a Fullstack Developer with :one: year of experience. I am passionate about building responsive, user-friendly applications using the latest web technologies. My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQuery, and .NET.
 
 Skills
 Languages: JavaScript, C#, HTML, CSS
