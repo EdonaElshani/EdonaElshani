@@ -71,7 +71,7 @@ My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQu
   </p>
 </div>
 </br>
-<strong>Contact Me </strong>
+<strong>Contact Me: </strong> </br>
 Feel free to reach out to me via email or social media:
 
 📧 edonaelshani31@gmail.com
