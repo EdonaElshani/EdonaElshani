@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 I'm Edona Elshani!
-I am a Fullstack Developer with almost 2️⃣ year of experience. 
+I am a Fullstack Developer with almost 2️⃣ years of experience. 
 </br>
 I am passionate about building responsive, user-friendly applications using the latest web technologies. </br>
 My primary languages are  C#, JavaScript, React.js, React Native, CSS, HTML, jQuery, and .NET.
